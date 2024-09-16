@@ -1,21 +1,11 @@
-<p id="special text"> </p> 
-<h1 style=background-color:aria-controls></h1>
 
-<p class="speical text">
 
-</p><h2 stye=background-color:aria-controls></h2>
-#special-text {
-    color: pink;
-    font weight: bold;
-} 
-
-.important{ 
- border:1px solid pink;
- <background-color: id="eee"></background-color:>
- padding:5px;
-}
+.important
+ {border:1px solid pink;
+ background-color: id="eee"> </background-color:>
+ padding:5px;}
 body {
-    background-color: rgb(218, 126, 156);
+    background-color: rgb(149, 116, 127);
     font-family: Arial, sans-serif;
 }
 
@@ -55,4 +45,72 @@ th, td {
 
 th {
     background-color: #f2f2f2;
+}
+
+
+body {
+    background-color: rgb(218, 126, 156);
+}
+
+h1, h2, h3, h4, h5 {
+    color: deeppink;
+}
+
+h1 {
+    color: deeppink;
+}
+
+h2 {
+    color: deeppink;
+}
+
+h3 {
+    color: rgb(214, 19, 214);
+}
+
+h4 {
+    color: rgb(160, 23, 119);
+}
+
+h5 {
+    color: rgb(255, 4, 201);
+}
+
+.header {
+    text-align: center;
+}
+
+.milestone-heading {
+    font-size: 40px;
+    font-family: Fantasy;
+    color: red;
+    transition: color 0.5s;
+}
+
+.milestone-heading:hover {
+    color: SkyBlue;
+}
+
+.main {
+    text-align: center;
+}
+
+.milestone-image {
+    height: 250px;
+    width: auto;
+}
+
+.footer {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, th, td {
+    border: 2px solid black;
+    padding: 8px;
+    text-align: left;
 }
