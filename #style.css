@@ -1,0 +1,58 @@
+<p id="special text"> </p> 
+<h1 style=background-color:aria-controls></h1>
+
+<p class="speical text">
+
+</p><h2 stye=background-color:aria-controls></h2>
+#special-text {
+    color: pink;
+    font weight: bold;
+} 
+
+.important{ 
+ border:1px solid pink;
+ <background-color: id="eee"></background-color:>
+ padding:5px;
+}
+body {
+    background-color: rgb(218, 126, 156);
+    font-family: Arial, sans-serif;
+}
+
+/* Title and Subtitle Styles */
+.title {
+    color: deeppink;
+}
+
+.subtitle {
+    color: rgb(214, 19, 214);
+}
+
+/* Image Styles */
+.image {
+    height: 250px;
+}
+
+.image-small {
+    height: 150px;
+}
+
+.image-medium {
+    height: 200px;
+}
+
+/* Table Styles */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 2px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
